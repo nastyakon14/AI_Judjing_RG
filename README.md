@@ -21,4 +21,25 @@
 
 **Total = D + A + E**
 
+# Сложность (D)
+
+| Трудность тела (DB)             | Трудность предмета (DA)        | Исполнение (E)                                                                 | Артистизм (A)                                                                |
+|---------------------------------|--------------------------------|--------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| Равновесия Прыжки Вращения      | Риски Мастерства               | **E<sub>max</sub>** = max(E<sub>1</sub>; E<sub>2</sub>; E<sub>3</sub>; E<sub>4</sub>) | **A<sub>max</sub>** = max(A<sub>1</sub>; A<sub>2</sub>; A<sub>3</sub>; A<sub>4</sub>) |
+| **DB** = (DB<sub>1</sub> + DB<sub>2</sub>)/2 | **DA** = (DA<sub>1</sub> + DA<sub>2</sub>)/2 | **E<sub>min</sub>** = min(E<sub>1</sub>; E<sub>2</sub>; E<sub>3</sub>; E<sub>4</sub>) | **A<sub>min</sub>** = min(A<sub>1</sub>; A<sub>2</sub>; A<sub>3</sub>; A<sub>4</sub>) |
+
+---
+
+### D = DA + DB
+
+**E** = 10 - [(E<sub>1</sub> + E<sub>2</sub> + E<sub>3</sub> + E<sub>4</sub> - E<sub>min</sub> - E<sub>max</sub>) / 2]  
+**A** = 10 - [(A<sub>1</sub> + A<sub>2</sub> + A<sub>3</sub> + A<sub>4</sub> - A<sub>min</sub> - A<sub>max</sub>) / 2]  
+
+---
+
+**Total = D + A + E**
+
+
+Рассматривается оценка DB
+
 <img width="451" height="476" alt="image" src="https://github.com/user-attachments/assets/4a2c0343-a976-4e26-b6da-0bbab28dc39d" />
