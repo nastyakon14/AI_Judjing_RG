@@ -45,4 +45,4 @@
 6. Подтягивание стоимости выполненного элемента.
 
 # **Результат** 
-<img width="451" height="476" alt="image" src="https://github.com/user-attachments/assets/4a2c0343-a976-4e26-b6da-0bbab28dc39d" />
+    <img width="782" height="859" alt="image" src="https://github.com/user-attachments/assets/54f8b546-064c-4545-9d39-925a63950a37" />
