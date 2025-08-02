@@ -29,6 +29,8 @@
 **Total = D + A + E**
 
 
-Рассматривается оценка DB
+> В работе рассматривается оценка трудности тела **DB**
 
+
+> **Результат** 
 <img width="451" height="476" alt="image" src="https://github.com/user-attachments/assets/4a2c0343-a976-4e26-b6da-0bbab28dc39d" />
