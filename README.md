@@ -43,11 +43,5 @@
 - Вероятность принадлежности к классу: уверенность >  80% => элемент определен
 6. Подтягивание стоимости выполненного элемента.
 
-
-
-  
-<img width="1491" height="775" alt="image" src="https://github.com/user-attachments/assets/5a9e90e2-3f7a-4c8e-b679-fb040c193850" />
-
-
 # **Результат** 
 <img width="451" height="476" alt="image" src="https://github.com/user-attachments/assets/4a2c0343-a976-4e26-b6da-0bbab28dc39d" />
